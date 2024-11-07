@@ -65,7 +65,7 @@ body, html {
 
   /* Header */
   header {
-    background-image: url('img/alex.jpg');
+    background-image: url('alex.jpg');
     background-size: cover;       /* Makes the image cover the entire header area */
     background-position: center;   /* Centers the image within the header */
     background-repeat: no-repeat;  /* Prevents the image from repeating */
